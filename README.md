@@ -223,6 +223,7 @@ sudo systemctl enable --now sysmonitor
 
 ---
 
+<img width="1662" height="880" alt="image" src="https://github.com/user-attachments/assets/eaca2766-eea0-4b01-833a-fe27dda8a532" />
 
 
 ---

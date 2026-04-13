@@ -223,23 +223,7 @@ sudo systemctl enable --now sysmonitor
 
 ---
 
-## Dashboard Screenshot
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ⬡ SysMonitor                               ● Live  ↺ Refresh   ║
-║  Last updated: 14:23:07  |  Next refresh in: 3s  |  Host: vm01  ║
-╠══════════════╦══════════════╦══════════════════════════════════╣
-║  CPU Usage   ║  Memory      ║  Disk ( / )                      ║
-║   ◯ 42%      ║   ◯ 71%      ║   ◯ 55%                          ║
-║   (green)    ║   (yellow)   ║   (green)                        ║
-╠══════════════╩══════════════╩══════════════════════════════════╣
-║  Network           ║  Services        ║  Top Processes          ║
-║  Status: UP ●      ║  ssh   [active]  ║  PID  User  CMD CPU%    ║
-║  Latency: 18.2 ms  ║  cron  [active]  ║  1234 root  nginx 12.3% ║
-║  Interface: eth0   ║  net   [active]  ║  ...                    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 ---
 

@@ -1,0 +1,8 @@
+.env
+data/
+logs/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+data/cooldowns/
